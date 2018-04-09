@@ -4,4 +4,5 @@ On this page you can find our wiki with information and links for colabration to
 
 
 # Download Gantt Chart
-https://goo.gl/forms/R8e7lNLdmGeBFT062
+goo.gl/ATJFM1
+
