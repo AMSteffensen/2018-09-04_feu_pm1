@@ -1,1 +1,6 @@
 theme: jekyll-theme-tactile
+title: [Lofthus Frukt og Saft]
+description: [Download Project Plan]
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
